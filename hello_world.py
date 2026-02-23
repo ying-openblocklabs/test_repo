@@ -5,6 +5,8 @@
 def main():
     """Print hello worm."""
     print("Hello, Worm!")
+    print("wdym")
+    print("nothing much")
 
 
 if __name__ == "__main__":
