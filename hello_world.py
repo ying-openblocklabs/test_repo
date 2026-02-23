@@ -7,6 +7,7 @@ def main():
     print("Hello, Worm!")
     print("wdym")
     print("nothing much")
+    print("a OK")
 
 
 if __name__ == "__main__":
