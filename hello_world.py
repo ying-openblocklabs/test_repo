@@ -3,8 +3,8 @@
 
 
 def main():
-    """Print hello world."""
-    print("Hello, World!")
+    """Print hello worm."""
+    print("Hello, Worm!")
 
 
 if __name__ == "__main__":
